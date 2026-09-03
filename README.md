@@ -1,7 +1,4 @@
-HAAAN bhai 😭❤️ **yeh poora README hai.** Bas current `README.md` ka **poora content delete karke** yeh poora block paste kar de:
-
-````markdown
-# CrediShield AI
+#CrediShield AI
 
 ### AI-Powered Buyer Risk & Reliability System for MSMEs
 
